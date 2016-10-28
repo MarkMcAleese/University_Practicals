@@ -1,5 +1,6 @@
 #include "arrayChec.h"
 #include <map>
+#include "catch.hpp"
 bool same_elements(int* arrayA, int* b, int n){
 
 	//for (int i = 0; i < n; i++){
